@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a6965b1-78b3-4d19-83b1-89180bd04321" name="Changes" comment="ChessException e ChessPosition">
+    <list default="true" id="7a6965b1-78b3-4d19-83b1-89180bd04321" name="Changes" comment="ajustes (cor, etc) e criação de peças">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/application/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/UI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boardgame/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boardgame/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chess/ChessException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -133,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631808158797</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="ajustes (cor, etc) e criação de peças">
+      <created>1631811214791</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1631811214791</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,6 +166,7 @@
     <MESSAGE value="peças no tabuleiro" />
     <MESSAGE value="Tratamento de exceptions e programação defensiva" />
     <MESSAGE value="ChessException e ChessPosition" />
-    <option name="LAST_COMMIT_MESSAGE" value="ChessException e ChessPosition" />
+    <MESSAGE value="ajustes (cor, etc) e criação de peças" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajustes (cor, etc) e criação de peças" />
   </component>
 </project>
