@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a6965b1-78b3-4d19-83b1-89180bd04321" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chess/pieces/King.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chess/pieces/Rook.java" afterDir="false" />
+    <list default="true" id="7a6965b1-78b3-4d19-83b1-89180bd04321" name="Changes" comment="peças no tabuleiro">
+      <change afterPath="$PROJECT_DIR$/src/boardgame/BoardException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/boardgame/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boardgame/Board.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631800533309</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="peças no tabuleiro">
+      <created>1631806045319</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1631806045319</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,6 +139,7 @@
     <MESSAGE value="gitignore atualizado" />
     <MESSAGE value="criado board e peças" />
     <MESSAGE value="Camada Chess e impressão do tabuleiro" />
-    <option name="LAST_COMMIT_MESSAGE" value="Camada Chess e impressão do tabuleiro" />
+    <MESSAGE value="peças no tabuleiro" />
+    <option name="LAST_COMMIT_MESSAGE" value="peças no tabuleiro" />
   </component>
 </project>
