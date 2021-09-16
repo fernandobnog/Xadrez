@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a6965b1-78b3-4d19-83b1-89180bd04321" name="Changes" comment="Movimentos possíveis da torre">
+    <list default="true" id="7a6965b1-78b3-4d19-83b1-89180bd04321" name="Changes" comment="Colorindo Movimentos possíveis">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/application/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/UI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631822439434</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Colorindo Movimentos possíveis">
+      <created>1631823747592</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1631823747592</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,6 +201,7 @@
     <MESSAGE value="Melhorando exceptions e limpando a tela" />
     <MESSAGE value="Movimentos possíveis de uma peça" />
     <MESSAGE value="Movimentos possíveis da torre" />
-    <option name="LAST_COMMIT_MESSAGE" value="Movimentos possíveis da torre" />
+    <MESSAGE value="Colorindo Movimentos possíveis" />
+    <option name="LAST_COMMIT_MESSAGE" value="Colorindo Movimentos possíveis" />
   </component>
 </project>
